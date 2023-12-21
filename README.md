@@ -32,8 +32,10 @@
 
 ## 🤝🏻 &nbsp;Contact me
 
-<a href="https://www.linkedin.com/in/cyril-grosjean-7a8ab4231/"><img alt="Night Coding" src="./images/socials/linkedin.svg" width='40' /></a>
-<a href="https://discord.gg/GpJK5WgUz6"><img alt="Night Coding" src="./images/socials/discord.svg" width='40' /></a>
+<a href="https://www.linkedin.com/in/cyril-grosjean-7a8ab4231/"><img alt="Linkedin" src="./images/socials/linkedin.svg" width='40' /></a>
+<a href="https://discord.gg/GpJK5WgUz6"><img alt="Discord" src="./images/socials/discord.svg" width='40' /></a>
+<a href="mailto:cyril.grosjean@outlook.fr"><img alt="Email" src="./images/socials/email.svg" width='40' /></a>
+
 
 
 
