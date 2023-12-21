@@ -8,11 +8,8 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CyrilInCode?color=C20BAC&labelColor=A30A90&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/CyrilInCode?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/watchers/CyrilInCode/CyrilInCode?color=C20BAC&labelColor=A30A90&style=for-the-badge&logo=eye&label=visitors&logoColor=white"/></a>
-  
 </p>
 
-## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
-##Ete
+### Hey! 👋
 
 
