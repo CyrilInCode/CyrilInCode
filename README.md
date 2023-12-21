@@ -11,8 +11,11 @@
 </p>
 
 <img alt="Night Coding" src="./images/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Cyril</h2>
-#### I have been working as a full-stack developer apprentice since September 2022.
-#### Currently, I am undergoing training, and as a passionate and motivated individual, I am learning and growing every day.
+> I have been working as a full-stack developer apprentice since September 2022.
+ > 
+> Currently, I am undergoing training, and as a passionate and motivated individual, I am learning and growing every day.
+ > 
+
 
 
 
