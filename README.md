@@ -19,7 +19,7 @@
 
 
 
-## Skills
+## 🛠 &nbsp;Tech Stack
 
 > 👨‍💻 TypeScript, JavaScript, Java, Python, PHP
  > 
