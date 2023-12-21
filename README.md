@@ -28,6 +28,12 @@
 > 👁️ Tailwind, CSS, Bootstrap
  > 
 > 💽 MySQL, SQL, Mongo
- > 
+ >
+
+## 🛠 &nbsp;Contact me
+
+<a href="https://www.linkedin.com/in/cyril-grosjean-7a8ab4231/"><img alt="Night Coding" src="./images/socials/linkedin.svg" width='40' align="left"/></a>
+
+
 
 
