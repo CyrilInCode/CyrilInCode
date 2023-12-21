@@ -10,13 +10,20 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/watchers/CyrilInCode/CyrilInCode?color=C20BAC&labelColor=A30A90&style=for-the-badge&logo=eye&label=visitors&logoColor=white"/></a>
 </p>
 
-## Hey! 👋
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+
+
 
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Java, Python, PHP
-- ⚙️ NextJS, Angular, Spring Boot, Flask
-- 👁️ Tailwind, CSS, Bootstrap
-- 💽 MySQL, SQL, Mongo
+
+> 👨‍💻 TypeScript, JavaScript, Java, Python, PHP
+ > 
+> ⚙️ NextJS, Angular, Spring Boot, Flask
+ > 
+> 👁️ Tailwind, CSS, Bootstrap
+ > 
+> 💽 MySQL, SQL, Mongo
+ > 
 
 
