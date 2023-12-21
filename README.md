@@ -32,7 +32,9 @@
 
 ## 🤝🏻 &nbsp;Contact me
 
-<a href="https://www.linkedin.com/in/cyril-grosjean-7a8ab4231/"><img alt="Night Coding" src="./images/socials/linkedin.svg" width='40' align="left"/></a>
+<a href="https://www.linkedin.com/in/cyril-grosjean-7a8ab4231/"><img alt="Night Coding" src="./images/socials/linkedin.svg" width='40' /></a>
+<a href="https://discord.gg/GpJK5WgUz6"><img alt="Night Coding" src="./images/socials/discord.svg" width='40' /></a>
+
 
 
 
