@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/CyrilInCode/CyrilInCode/develop/images/name.svg" alt="Cyril Grosjean" />
+  <img src="./images/name.svg" alt="Cyril Grosjean" />
 </h3>
 <p align="center">
   <a href="https://github.com/CyrilInCode?tab=repositories&sort=stargazers">
@@ -10,8 +10,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/watchers/CyrilInCode/CyrilInCode?color=C20BAC&labelColor=A30A90&style=for-the-badge&logo=eye&label=visitors&logoColor=white"/></a>
 </p>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
+<img alt="Night Coding" src="./images/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Cyril</h2>
+#### I have been working as a full-stack developer apprentice since September 2022.
+#### Currently, I am undergoing training, and as a passionate and motivated individual, I am learning and growing every day.
 
 
 
@@ -19,7 +20,7 @@
 
 > 👨‍💻 TypeScript, JavaScript, Java, Python, PHP
  > 
-> ⚙️ NextJS, Angular, Spring Boot, Flask
+> ⚙️ NextJS, ReactJS, Angular, Spring Boot, Flask
  > 
 > 👁️ Tailwind, CSS, Bootstrap
  > 
